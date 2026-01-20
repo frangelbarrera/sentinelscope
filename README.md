@@ -1,11 +1,11 @@
-🛰️ SentinelScope – Automated OSINT Reconnaissance Framework
+ SentinelScope – Automated OSINT Reconnaissance Framework
 
 SentinelScope is a modular, Python-powered OSINT (Open Source Intelligence) framework designed to streamline the process of gathering publicly available information from multiple sources.  
 It is built for cybersecurity professionals, penetration testers, and researchers who require fast, structured, and reproducible reconnaissance.
 
 ---
 
-🔍 Key Capabilities
+ Key Capabilities
 
 - GitHub Recon – Extract public profile data, starred repositories, and organizational memberships.
 - Phone Number OSINT – Identify country and carrier details from phone numbers.
@@ -16,7 +16,7 @@ It is built for cybersecurity professionals, penetration testers, and researcher
 
 ---
 
-📂 Project Layout
+ Project Layout
 
 `
 SentinelScope/
@@ -34,7 +34,7 @@ SentinelScope/
 
 ---
 
-⚙️ Installation
+ Installation
 
 Clone the repository and install dependencies:
 
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ---
 
-🚀 Usage
+ Usage
 
 Run the toolkit:
 
@@ -60,7 +60,7 @@ Select a module from the menu or choose Run All to execute the full reconnaissan
 
 ---
 
-📑 Example Output
+ Example Output
 
 GitHub Recon:
 `
@@ -80,13 +80,13 @@ Carrier: Unknown
 
 ---
 
-🛡️ Disclaimer
+ Disclaimer
 
 This tool is intended for educational and authorized security testing purposes only.  
 The author is not responsible for any misuse or damage caused by this software.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
