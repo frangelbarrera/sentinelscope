@@ -1,4 +1,4 @@
- **SentinelScope – Automated OSINT Reconnaissance Framework**
+ ## **SentinelScope – Automated OSINT Reconnaissance Framework**
 
 SentinelScope is a modular, Python-powered OSINT (Open Source Intelligence) framework designed to streamline the process of gathering publicly available information from multiple sources.  
 It is built for cybersecurity professionals, penetration testers, and researchers who require fast, structured, and reproducible reconnaissance.
